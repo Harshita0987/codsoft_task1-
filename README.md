@@ -1,6 +1,6 @@
 # codsoft_task1-
 
-## 📌 Task 1: Number Guessing Game (Java)
+## 📌 Task 1: Number  Game (Java)
 
 ### 📝 Description
 
